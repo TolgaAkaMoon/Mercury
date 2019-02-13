@@ -1,2 +1,2 @@
-# Mercury
-The smallest planet in our solar system and nearest to the Sun, Mercury is only slightly larger than Earth's Moon.
+# Earth
+Our home planet is the third from the Sun, and the only place we know of so far that’s inhabited by living things. While Earth is only the fifth largest planet in the solar system, it is the only world in our solar system with liquid water on the surface.
