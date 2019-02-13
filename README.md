@@ -1,2 +1,2 @@
-# Earth
-Our home planet is the third from the Sun, and the only place we know of so far that’s inhabited by living things. While Earth is only the fifth largest planet in the solar system, it is the only world in our solar system with liquid water on the surface.
+# Jupiter
+The fifth planet from the Sun, and the most massive in our solar system, Jupiter has a long history surprising scientists—all the way back to 1610 when Galileo Galilei found the first moons beyond Earth. That discovery changed the way we see the universe.
